@@ -1,0 +1,4 @@
+Flask
+svgpathtools
+shapely
+numpy
